@@ -5,8 +5,7 @@
   "main": "index.js",
   "engines": {
     "node": "22.x",
-    "npm": "6.13.4"
-  },
+    },
   "scripts": {
     "start": "nodemon server/server.js",
     "client": "npm start --prefix client",
